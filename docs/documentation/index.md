@@ -42,6 +42,36 @@ A showcase of all the Markdown features you can use in your documentation.
 
 <div class="doc-card" style="background-image: url('https://drive.google.com/thumbnail?id=1Lj5d11XVvTUJN1gPjvFBOS0ZFoCAJX6v&sz=w800');" markdown>
 
+### 🚀 Software Installation
+
+Mostly used software in Fab Lab
+
+[:octicons-arrow-right-24: Read Guide](installation.md)
+
+</div>
+
+<div class="doc-card" style="background-image: url('https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/led_resistor_simulation.png?ref_type=heads');" markdown>
+
+### 🚀 TinkerCad Simulation
+
+Documentation on how to simulate in Thinkercad Circuit
+
+[:octicons-arrow-right-24: Read More](basic_simulation.md)
+
+</div>
+
+<div class="doc-card" style="background-image: url('https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/resistance.png?ref_type=heads');" markdown>
+
+### 🚀 Blinking LED on Arduino
+
+Documentation on how to control an LED
+
+[:octicons-arrow-right-24: Read More](led_blink.md)
+
+</div>
+
+<div class="doc-card" style="background-image: url('https://fabacademy.org/2025/labs/dgi/students/tsheyang-tshewang/images/week04/a_ide.jpg');" markdown>
+
 ### 📝 Blank Template
 
 Copy this template to create new documentation pages quickly.
