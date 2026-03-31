@@ -1,5 +1,4 @@
----
-title: About Me....
+title: About Me
 ---
 
 # About Me
@@ -20,20 +19,21 @@ title: About Me....
      4. Replace YOUR_FILE_ID below
      ──────────────────────────────────────────────────────── -->
 
-<img class="profile-photo" src="https://drive.google.com/thumbnail?id=1u1_Mebw0WiAgEy98OZ64ls9IW0oCBlAh&sz=w400" alt="Profile Photo">
+<img class="profile-photo" src="https://drive.google.com/thumbnail?id=16W5xMwq60n6GzAIfoEtxotcFjQkLQe95&sz=w500" alt="Profile Photo">
 
 
 <div class="profile-info" markdown>
 
-## Your Name Here
+## Tshering Choden
 
 **Title / Role** — student
 
-> _"Add your favorite quote or personal tagline here."_
+> _""The only way to do great work is to love what you do." - Steve Jobs"_
 
 A short paragraph about yourself. Describe who you are, what you're passionate about,
 and what drives you. Keep it personal and authentic — this is your space!
 
+I was born on 6th of June, 2009. I am from central part of Bhutan called Bumthang which is aslo known as the cultural heartland of Bhutan. I have a lot of hobbies and interests. I love playing football and volleyball. Moreover, I also enjoy reading books and journaling. On top of that, I love spending time with my loved ones and just chat with them.
 </div>
 
 </div>
@@ -44,21 +44,17 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Year | Degree / Grade | School |
 |------|-----------------|-------------|
-| 2024 – Present | B.Sc. in Your Major | Your University |
-| 2020 – 2024 | Higher Secondary | Your School/College |
+| 2024 – Present | Higher Secondary | The Royal Academy |
+| 2022 – 2024 | Middle Secondary | The Royal Academy |
 
 ## 🛠️ Skills
 
 <div markdown>
 
 <span class="skill-badge">Python</span>
-<span class="skill-badge">JavaScript</span>
-<span class="skill-badge">Arduino</span>
-<span class="skill-badge">MkDocs</span>
 <span class="skill-badge">Git & GitHub</span>
-<span class="skill-badge">3D Printing</span>
-<span class="skill-badge">CAD Design</span>
-<span class="skill-badge">Electronics</span>
+
+
 
 </div>
 
@@ -72,9 +68,23 @@ and what drives you. Keep it personal and authentic — this is your space!
 ## 🌟 Interests
 
 - 🔬 **Research Area 1** — Brief description of your interest
+
+I am someone who has a lot of hobbies. I am very interested in playing sports. I see sports as a way to connect with other people and built lasting relationships and memories. I am also very interested in learning about psychology because I am fascinated about knowing human's mind and behaviors.
+
+
 - 🎨 **Creative Hobby** — Brief description
+
+I love journaling and jotting down my thoughts as it helps me clear my thoughts and organize them propely. Moreover, I also enjoy knitting and tailoring. Fortunately, I was able to develop those skills during my textiles learning experiences.
+
+
 - 🏃 **Sports / Activity** — Brief description
+
+I would describe myself as a very sporty person. I enjoy playing a lot of sports like football, volleyball, and basketball. Moreover, I have also took part in many competitions and represented our school.One of my favourite moments about playing sports would be being able to be a part of the ParoFC team.
+
+
 - 📚 **Reading / Learning** — Brief description
+
+One of my biggest passion would be reading fiction books as it helps me imagine different circumstances that enhances my creative thinking. My favourite book is "Harry Potter" because it is not only easy to read but also very fascinating. Moreover, reading helps me understand things that I never knew, see different places that I have never been to and experience different circumstances of lives.
 
 <hr class="section-divider">
 
@@ -82,7 +92,8 @@ and what drives you. Keep it personal and authentic — this is your space!
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [yourusername](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Your Name](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [your.email@example.com](mailto:your.email@example.com) |
-| :material-web: Website | [yourwebsite.com](https://yourwebsite.com) |
+| :fontawesome-brands-github: GitHub | [tshering.choden2022](https://github.com/yourusername) |
+| :fontawesome-brands-linkedin: LinkedIn | [Tshering Choden](https://linkedin.com/in/yourusername) |
+| :material-email: Email | [tshering.choden2022@academy.bt](mailto:your.email@example.com) |
+| :material-web: Website | [https://tshering-choden-ccc996.gitlab.io/](https://tshering-choden-ccc996.gitlab.io/) |
+
