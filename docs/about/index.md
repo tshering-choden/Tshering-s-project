@@ -30,7 +30,6 @@ title: About Me
 
 > _""The only way to do great work is to love what you do." - Steve Jobs"_
 
-
 I was born on 6th of June, 2009. I am from central part of Bhutan called Bumthang which is aslo known as the cultural heartland of Bhutan. I have a lot of hobbies and interests. I love playing football and volleyball. Moreover, I also enjoy reading books and journaling. On top of that, I love spending time with my loved ones and just chat with them.
 </div>
 
