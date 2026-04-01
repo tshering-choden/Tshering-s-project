@@ -89,9 +89,6 @@ Picture credit:Google
 
 Photo credit:Google
 
-## My first laser cutting product
-
-<img class="photo" src="https://drive.google.com/thumbnail?id=1aiAQLwj0uR2EwuRFOyQmJYKuy1EECH9n&sz=w400" alt="Photo" width="1000">
 ---
 
 ## Safety and Maintenance
