@@ -89,8 +89,8 @@ One of my biggest passion would be reading fiction books as it helps me imagine 
 
 | Platform | Link |
 |----------|------|
-| : GitHub username | [tshering-choden
-| :  Name | [Tshering Choden]
-| : Email | [tshering.choden2022@academy.bt] |
-| : Website link | [https://tshering-choden.github.io/Tshering-s-project/] |
+| : GitHub username | tshering-choden
+| :  Name | Tshering Choden
+| : Email | tshering.choden2022@academy.bt |
+| : Website link | https://tshering-choden.github.io/Tshering-s-project/ |
 
