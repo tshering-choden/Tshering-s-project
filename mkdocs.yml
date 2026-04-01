@@ -157,6 +157,7 @@ nav:
       - "📝 Blank Template": documentation/template.md
       - "3D Designing": documentation/3d_design.md
       - "Learning about Git": documentation/Git_learning.md
+      - "Laser Cutting": documentation/Laser_Cutting.md
 
   - Projects:
       - Overview: projects/index.md
