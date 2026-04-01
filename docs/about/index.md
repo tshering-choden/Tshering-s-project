@@ -30,8 +30,6 @@ title: About Me
 
 > _""The only way to do great work is to love what you do." - Steve Jobs"_
 
-A short paragraph about yourself. Describe who you are, what you're passionate about,
-and what drives you. Keep it personal and authentic — this is your space!
 
 I was born on 6th of June, 2009. I am from central part of Bhutan called Bumthang which is aslo known as the cultural heartland of Bhutan. I have a lot of hobbies and interests. I love playing football and volleyball. Moreover, I also enjoy reading books and journaling. On top of that, I love spending time with my loved ones and just chat with them.
 </div>
@@ -92,8 +90,8 @@ One of my biggest passion would be reading fiction books as it helps me imagine 
 
 | Platform | Link |
 |----------|------|
-| :fontawesome-brands-github: GitHub | [tshering.choden2022](https://github.com/yourusername) |
-| :fontawesome-brands-linkedin: LinkedIn | [Tshering Choden](https://linkedin.com/in/yourusername) |
-| :material-email: Email | [tshering.choden2022@academy.bt](mailto:your.email@example.com) |
-| :material-web: Website | [https://tshering-choden-ccc996.gitlab.io/](https://tshering-choden-ccc996.gitlab.io/) |
+| : GitHub username | [tshering-choden
+| :  Name | [Tshering Choden]
+| : Email | [tshering.choden2022@academy.bt] |
+| : Website link | [https://tshering-choden.github.io/Tshering-s-project/] |
 
