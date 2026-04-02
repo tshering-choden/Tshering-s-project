@@ -13,7 +13,7 @@ This document contains my experience learning about GitHub, including what I’v
 My documentation is designed to help one learn the basics of using repositories, including how to commit and push code the right way. I also explain about common pipeline errors and how to fix them so the project stays on track. By following my notes, I hope one can avoid simple mistakes and learn how to manage your code more easily.
 
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=15smQtBbmMedf1YxqCXi8wDMVtxM9cpnp&sz=w400" alt="Photo" width="900">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1Wc9XHNZ8POjC4bYaWkPBSlcy3YbZQPKp&sz=w400" alt="Photo" width="900">
 
 Picture Credit:Google
 
