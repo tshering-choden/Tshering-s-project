@@ -2,7 +2,7 @@
 
 > **Author:** Tshering Choden
 
-> **Tags:** `Learning`, `Gitlab`, `Documentation`
+> **Tags:** `Learning`, `GitHub`, `Documentation`
 
 ---
 
