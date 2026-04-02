@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This document contains my experience learning about GitLab, including what I’ve learned, the challenges I’ve faced, and how much I've improved. I started this journey to understand how to manage and write code, but I also wanted to learn how to build a website and create better documentation.
+This document contains my experience learning about GitHub, including what I’ve learned, the challenges I’ve faced, and how much I've improved. I started this journey to understand how to manage and write code, but I also wanted to learn how to build a website and create better documentation.
 
 My documentation is designed to help one learn the basics of using repositories, including how to commit and push code the right way. I also explain about common pipeline errors and how to fix them so the project stays on track. By following my notes, I hope one can avoid simple mistakes and learn how to manage your code more easily.
 
@@ -17,15 +17,15 @@ My documentation is designed to help one learn the basics of using repositories,
 
 Picture Credit:Google
 
-## What is Gitlab?
+## What is GitHub?
 
 GitLab is a digital workspace that stores your code, tracks every change you make so you never lose your work, and uses "robots" to automatically move your website from your computer to the live internet.It’s a one-stop shop where you can write your code, track your to-do list, and launch your site all in one place.
 
 ---
 
-## My Account in GitLab
+## My Account in GitHub
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1qfbY2JYBPbX1rMCl9Q1ACkW_75RSJAK-&sz=w400" alt="Photo" width="1000">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1Qsa2J1DNNku3SAXWqaHXe75UarWZB8i&sz=w400" alt="Photo" width="1000">
 
 Picture Credit:Gitlab
 
