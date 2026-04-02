@@ -25,7 +25,7 @@ GitLab is a digital workspace that stores your code, tracks every change you mak
 
 ## My Account in GitHub
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1Qsa2J1DNNku3SAXWqaHXe75UarWZB8i&sz=w400" alt="Photo" width="1000">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1Qsa2J1DNNku3SAXWqaHXe75UarWZB8id&sz=w400" alt="Photo" width="1000">
 
 Picture Credit:Gitlab
 
