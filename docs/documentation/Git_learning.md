@@ -1,4 +1,4 @@
-# _**Learning about Gitlab**_
+# _**Learning about GitHub**_
 
 > **Author:** Tshering Choden
 
