@@ -32,7 +32,7 @@ Picture Credit:Gitlab
 
 ## Installation(Process of setting up your account)
 
-Sign Up: Create a free account at GitLab.com.
+Sign Up: Create a free account at https://github.com/
 New Project: Click "New project" and choose "Create blank project" to make a folder for your work.
 Add a README: Check the box to "Include a README file"—this is your project's front page.
 Write Content: Click "Edit" on your README and type your notes using Markdown (simple symbols for bold or lists).
