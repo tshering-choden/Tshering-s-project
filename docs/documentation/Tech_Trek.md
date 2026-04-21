@@ -47,5 +47,8 @@ Show one complete video for the word “cat” in sign mode
 
 ## Draft Sketch.
 
+<img class="photo" src="https://drive.google.com/thumbnail?id=1nGu-uZWjGaK09eY3LCvI-JUlmt3JK_k7&sz=w400" alt="Photo" width="900">
+
+
 
 
