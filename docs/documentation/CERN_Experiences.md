@@ -28,7 +28,7 @@ The visit to CERN, the European Council for Nuclear Research, was a distinctive 
 
 A definitive highlight was the opportunity to meet Sir John Ellis, who is a renowned British theoretical physicist.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1f_iZIKhTHOJdTVJFt3jdAaXGcWgQ_A8&sz=w400" alt="Photo" width="1000">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1f_iZIKhTHOJdTVJFt3jdAaXGcWgQ_A8r&sz=w400" alt="Photo" width="1000">
 
 ## Exploring Art in Italy
 
