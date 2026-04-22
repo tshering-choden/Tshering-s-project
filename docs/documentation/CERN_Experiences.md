@@ -19,7 +19,7 @@ Traveling to new places is far more than just a break from my school routine; fo
 
 Our group was very fortunate to be guided by Mr. Pranav Sharma, a former theoretical physicist. His expertise and dedicated care were invaluable; he acted as an essential mentor, introducing us to brilliant minds and helping us navigate the complexities of the region with ease.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1LzKyY6R7a7zRKzbwqLbgKig9mISd8jCEnx05WXwfxPMLkuJOaJ&sz=w400" alt="Photo" width="1000">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1LzKyY6R7a7zRKzbwqLbgKig9mISd8jCE&sz=w400" alt="Photo" width="1000">
 
 
 ## The Frontiers of Science
