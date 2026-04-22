@@ -158,6 +158,7 @@ nav:
       - "Learning about Git": documentation/Git_learning.md
       - "Laser Cutting": documentation/Laser_Cutting.md
       - "Tech Trek Project": documentation/Tech_Trek.md
+      - "CERN Experiences": documentation/CERN_Experiences.md
 
   - Projects:
       - Overview: projects/index.md
