@@ -7,9 +7,11 @@ Our goal is to create an interactive website that teaches people how to use Bhut
 ## Description
 
 1. Purpose
+
 In daily life, communication is crucial. However, there is a communication gap between the hearing community and those who are deaf or hard of hearing in Bhutan since many people are unfamiliar with Bhutanese Sign Language. Even if the Bhutanese citizens want to learn sign language, there is a lack of teachers or proper learning platforms. This initiative aims to close this gap by developing an easy-to-use platform for learning sign language. Our goals with this website are to increase awareness, encourage inclusivity, and use technology to address a serious social issue.
 
 2. Learning Impact
+
 This game helps learners improve their knowledge by allowing them to learn at their own pace, enabling practice at any time. It also fosters empathy and understanding for the deaf community and supports the development of better communication skills by teaching both finger spelling and actual Bhutanese Sign Language signs.
 
 ## Theme
@@ -47,7 +49,7 @@ Show one complete video for the word “cat” in sign mode
 
 ## Draft Sketch.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1nGu-uZWjGaK09eY3LCvI-JUlmt3JK_k7&sz=w400" alt="Photo" width="900">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1nGu-uZWjGaK09eY3LCvI-JUlmt3JK_k7&sz=w400" alt="Photo" width="1000">
 
 
 
