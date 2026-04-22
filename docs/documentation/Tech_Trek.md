@@ -1,5 +1,9 @@
 # _**TechTrek Project**_
 
+>Tshering Choden
+
+> **Tags:** `Learning`, `TechTrek`, `Game Creation`, `Documentation`
+
 ## Project Title: Bhutanese Sign Language Learning Website
 
 Our goal is to create an interactive website that teaches people how to use Bhutanese Sign Language (BSL). Users will be able to select between two learning options, spelling and sign by typing a word into a search field on the application. While the sign option uses a video to demonstrate the entire word sign, the spelling option shows each letter in sign language. With the use of this platform, learning sign language will be easy, visible, and available to anyone.
