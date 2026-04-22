@@ -8,6 +8,8 @@
 
 Our goal is to create an interactive website that teaches people how to use Bhutanese Sign Language (BSL). Users will be able to select between two learning options, spelling and sign by typing a word into a search field on the application. While the sign option uses a video to demonstrate the entire word sign, the spelling option shows each letter in sign language. With the use of this platform, learning sign language will be easy, visible, and available to anyone.
 
+<img class="photo" src="https://drive.google.com/thumbnail?id=1IJRa4GFjnVAhYQhpddinKwC4q5DAnpiN&sz=w400" alt="Photo" width="1000">
+
 ## Description
 
 1. Purpose
@@ -23,6 +25,8 @@ This game helps learners improve their knowledge by allowing them to learn at th
 "Technology for Inclusivity and Communication" is the project's main theme.
 
 The project's main goals are to close communication gaps in society, facilitate inclusive learning, and advance accessibility through the use of digital tools.
+
+<img class="photo" src="https://drive.google.com/thumbnail?id=1gv1VYzipFjKKhRP1wLAbyeOgu1s1cl7H&sz=w400" alt="Photo" width="1000">
 
 ## Subject Integration
 
@@ -54,7 +58,7 @@ Show one complete video for the word “cat” in sign mode
 ## Draft Sketch.
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=1nGu-uZWjGaK09eY3LCvI-JUlmt3JK_k7&sz=w400" alt="Photo" width="1000">
-
+ 
 
 
 
