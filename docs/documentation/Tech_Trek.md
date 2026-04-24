@@ -35,24 +35,36 @@ The concept of communication and inclusiveness is captured in our game through t
 Python will be used as the main programming language to build the website.
 
 It will perform the following functions:
+
 -Take user input (word entered in the search box)
+
 -Convert the word into lowercase
+
 -Break the word into individual letters
+
 -Match the input with stored video files
+
 -Display the appropriate videos based on user selection
 
 
 For example, if a user types “cat”:
+
 The system will break it into letters (C, A, T)
+
 Display individual videos for each letter in spelling mode
+
 Show one complete video for the word “cat” in sign mode
 
 ## Advantages
 
 -offers a user-friendly, interactive sign language learning environment.
+
 -helps people in comprehending whole signals and spelling
+
 -promotes awareness of Sign Language in Bhutan
+
 -promotes open conversation in society
+
 -shows how to use Python practically to solve difficulties in the real world.
 
 ## Draft Sketch.
