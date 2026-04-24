@@ -40,7 +40,7 @@ We also visited the home of the famous Medici family, who were known for helping
 
  My favorite was the statue of David. It stands tall and looks very brave, representing the strength and independence of the city.
 
- <img class="photo" src="https://drive.google.com/thumbnail?id=13E6OKxM6dvF9KSK3Kq14H4JmcZdUh5cK&sz=w400" alt="Photo" width="900">
+ <img class="photo" src="https://drive.google.com/thumbnail?id=1oWUMFRyQxT9_sbN4EKITmXLDPwcrusT4&sz=w400" alt="Photo" width="900">
 
  ## Reflection
 
