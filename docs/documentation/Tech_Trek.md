@@ -48,8 +48,6 @@ It will perform the following functions:
 -Display the appropriate videos based on user selection
 
 
-
-
 For example, if a user types “cat”:
 
 The system will break it into letters (C, A, T)
