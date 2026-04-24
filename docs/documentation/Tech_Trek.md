@@ -67,7 +67,7 @@ Show one complete video for the word “cat” in sign mode
 
 -shows how to use Python practically to solve difficulties in the real world.
 
-## Draft Sketch.
+## Draft Sketch
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=1nGu-uZWjGaK09eY3LCvI-JUlmt3JK_k7&sz=w400" alt="Photo" width="1000">
  
