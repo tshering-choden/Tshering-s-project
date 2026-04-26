@@ -159,7 +159,7 @@ nav:
       - "Laser Cutting": documentation/Laser_Cutting.md
       - "Tech Trek Project": documentation/Tech_Trek.md
       - "CERN Experiences": documentation/CERN_Experiences.md
-      - "CERN Experiences": documentation/Summer_at_Doon.md
+      - "Summer at Doon,India": documentation/Summer_at_Doon.md
 
   - Projects:
       - Overview: projects/index.md
