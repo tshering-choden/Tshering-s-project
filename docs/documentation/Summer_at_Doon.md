@@ -1,6 +1,6 @@
 ## Application for Summer at Doon - 2024
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1ILIQR9bJ5WTw-sHq47sFuvFJUm7dEqQG&sz=w400" alt="Photo" width="1000">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1319MoCZlr4wb6XmU5tbqO4vqmE3gThFb&sz=w400" alt="Photo" width="950">
 
 Tshering Choden
 Grade 9,
