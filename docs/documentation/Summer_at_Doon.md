@@ -1,11 +1,14 @@
 ## Application for Summer at Doon - 2024
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1319MoCZlr4wb6XmU5tbqO4vqmE3gThFb&sz=w400" alt="Photo" width="950">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1319MoCZlr4wb6XmU5tbqO4vqmE3gThFb&sz=w400" alt="Photo" width="900">
 
 Tshering Choden
-Grade 9,
-The Royal Academy, Pangbisa.
-Paro, Bhutan. 
+
+Grade 9
+
+The Royal Academy, Pangbisa
+
+Paro, Bhutan
 
 Any other academic/scholastic achievement you would like us to know about:
 Grade 8 board examination's result. Total percentage-91.46%
