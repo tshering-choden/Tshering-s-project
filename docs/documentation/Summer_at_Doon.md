@@ -2,6 +2,8 @@
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=1319MoCZlr4wb6XmU5tbqO4vqmE3gThFb&sz=w400" alt="Photo" width="900">
 
+## Personal Information 
+
 Tshering Choden
 
 Grade 9
