@@ -39,7 +39,7 @@ Summer at Doon is an engaging, two-week residential leadership programme for boy
 
 ## 2024 Batch of summer at Doon
 
-https://www.youtube.com/watch?v=[YOUR_VIDEO_ID](https://youtu.be/7r82vkV9qqw)
+https://www.youtube.com/watch?v=[YOUR_VIDEO_ID](https://youtu.be/7r82vkV9qqw?si=2QqyIx_Xc-U4SeLJ)
 
 
 
