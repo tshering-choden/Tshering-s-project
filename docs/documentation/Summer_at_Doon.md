@@ -17,7 +17,6 @@ Grade 8 board examination's result. Total percentage-91.46%
 
 ## Questions and Answers for the apllication
 
-
 Question-Your Learning And Activity Outside The Classroom Please provide us with brief details of any co-curricular activities, special achievements, community service you have been involved in over the past two years (if you wish to attach these on a separate sheet, please do so). These may include sports, the arts, debating, public speaking, conferences you have attended, clubs, societies, expeditions, music/dance, social service, exchange programmes, posts of responsibility, etc. (You may be requested to provide proof of participation or achievement.)
 
 Answer-I have been actively taking part in co-curricular activities. I am in the school’s football team and I have been in the am from the past 2 years. I also participated  in the National football youth league and I was also able to win the winner title with my team members. I am also continuously playing football matches with other schools as well. I recently joined the jump rope’s group to learn jump rope. In 2022, I participated in the school debate competition and I was able to make it to the final round. As a student of the Royal Academy, I always participate in the cleaning campaign to keep our environment clean and healthy. During the nature retreat, I always make sure to engage with my mentor and co-mentees actively and explore nature. I am taking part in various co-curricular activities to expand my skills and knowledge.
