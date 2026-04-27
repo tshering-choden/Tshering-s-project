@@ -15,6 +15,8 @@ Paro, Bhutan
 Any other academic/scholastic achievement you would like us to know about:
 Grade 8 board examination's result. Total percentage-91.46%
 
+## Questions and Answers for the apllication
+
 
 Question-Your Learning And Activity Outside The Classroom Please provide us with brief details of any co-curricular activities, special achievements, community service you have been involved in over the past two years (if you wish to attach these on a separate sheet, please do so). These may include sports, the arts, debating, public speaking, conferences you have attended, clubs, societies, expeditions, music/dance, social service, exchange programmes, posts of responsibility, etc. (You may be requested to provide proof of participation or achievement.)
 
