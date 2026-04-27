@@ -28,14 +28,14 @@ Question-Leadership is a skill or an ability to inspire, influence, motivate and
 
 Answer-Looking forward to my future, I want to develop emotional intelligence, because I want to regulate my emotions efficiently and I also want to be able to understand others feelings. If I have emotional intelligence, I will be able to build strong relationships with others. I also want to be able to accept constructive criticism. In a society, a leader will face a lot of challenges and criticism. I want to be able to accept constructive criticism without any difficulties so that I will be able to focus on greater goals in my life. I want to enhance my confidence so that I will be able to talk in front of any crowd confidently without hesitation and convey my message clearly. My personal leadership agenda for the future is centered around these skills that I want to acquire.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=maTtuvIlGA7YNqXklJMY_fNs7As0FjCU&sz=w400" alt="Photo" width="900">
+<img class="photo" src="https://drive.google.com/thumbnail?id=maTtuvIlGA7YNqXklJMY_fNs7As0FjCU&sz=w400" alt="Photo" width="800">
 
 
 ## What is Summer at Doon programme??
 
 Summer at Doon is an engaging, two-week residential leadership programme for boys and girls aged 14–18 held at The Doon School in Dehradun. It is designed to move students from thought to action by combining interactive workshops, team challenges, social service projects, and outdoor adventure. Through this immersive experience, participants learn how to lead with confidence, make a positive impact in their communities, and build lasting friendships. 
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="700">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="500">
 
 
 
