@@ -28,7 +28,7 @@ Question-Leadership is a skill or an ability to inspire, influence, motivate and
 
 Answer-Looking forward to my future, I want to develop emotional intelligence, because I want to regulate my emotions efficiently and I also want to be able to understand others feelings. If I have emotional intelligence, I will be able to build strong relationships with others. I also want to be able to accept constructive criticism. In a society, a leader will face a lot of challenges and criticism. I want to be able to accept constructive criticism without any difficulties so that I will be able to focus on greater goals in my life. I want to enhance my confidence so that I will be able to talk in front of any crowd confidently without hesitation and convey my message clearly. My personal leadership agenda for the future is centered around these skills that I want to acquire.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=17-QLbflA17I0wa799lbVfam4eMqag-C-&sz=w400" alt="Photo" width="900" length="400">
+<img class="photo" src="https://drive.google.com/thumbnail?id=17-QLbflA17I0wa799lbVfam4eMqag-C-&sz=w400" alt="Photo" width="900" height="400">
 
 
 ## What is Summer at Doon programme??
