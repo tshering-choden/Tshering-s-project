@@ -39,6 +39,15 @@ Summer at Doon is an engaging, two-week residential leadership programme for boy
 
 https://www.youtube.com/watch?v=[Click_Here_To_Watch](https://youtu.be/7r82vkV9qqw?si=2QqyIx_Xc-U4SeLJ)
 
+## My experiences
+
+In addition to providing me with a valuable opportunity to improve my skills, the summer leadership program I participated in during the ninth grade allowed me to make friends from all over India. It was full of exchange of ideas and cultural traditions. I got to try all sorts of dishes from India and it was an explosion of flavors. I enjoyed every bite. 
+
+One of the main highlights from the programme is rafting in the Ganga river. It was an incredible experience to raft the Ganges! The water splashed everywhere, and the rapids were a lot of fun. Each second felt unique, and there was a lot of excitement and natural beauty. I created more memories and added more fun as it was my first time rafting.
+
+During the leadership program, I had the wonderful opportunity to make friends from India. Whether we were working together, exchanging ideas, or just having a good time, I enjoyed having them around. I'm grateful for the friendship we formed during the program. Moreover, their perspectives and warmth made the experience even more unforgettable. Making connections and learning from people from a different culture was amazing.
+
+
 
 
 
