@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=[Click_Here_To_Watch](https://youtu.be/7r82vkV9q
 
 In addition to providing me with a valuable opportunity to improve my skills, the summer leadership program I participated in during the ninth grade allowed me to make friends from all over India. It was full of exchange of ideas and cultural traditions. I got to try all sorts of dishes from India and it was an explosion of flavors. I enjoyed every bite. 
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="500">
+<img class="photo" src="https://drive.google.com/thumbnail?id=12A6Ek6Ch5ZfBWwoNDtAtn_L5_qKH8PPM&sz=w400" alt="Photo" width="500">
 
 One of the main highlights from the programme is rafting in the Ganga river. It was an incredible experience to raft the Ganges! The water splashed everywhere, and the rapids were a lot of fun. Each second felt unique, and there was a lot of excitement and natural beauty. I created more memories and added more fun as it was my first time rafting.
 
