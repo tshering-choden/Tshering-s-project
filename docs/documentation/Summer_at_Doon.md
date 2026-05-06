@@ -56,7 +56,7 @@ One of the main highlights from the programme is rafting in the Ganga river. It 
 
 During the leadership program, I had the wonderful opportunity to make friends from India. Whether we were working together, exchanging ideas, or just having a good time, I enjoyed having them around. I'm grateful for the friendship we formed during the program. Moreover, their perspectives and warmth made the experience even more unforgettable. Making connections and learning from people from a different culture was amazing.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="500">
+<img class="photo" src="https://drive.google.com/thumbnail?id=12hfgnIT_gf7uYOhpYzoe559sX7iuovCr&sz=w400" alt="Photo" width="500">
 
 
 
