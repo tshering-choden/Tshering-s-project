@@ -63,7 +63,7 @@ The course taught me the importance of teamwork, discipline, and perseverance. M
 
 Water Olympics was one of the most memorable experiences for me. As I participated in the exciting water activities, I not only had fun but also learned the true value of teamwork, leadership, and trust. Every challenge brought us closer together, and the energy, laughter, and encouragement from everyone made the atmosphere unforgettable. It was more than just a competition — it was a moment where I built confidence, created lasting memories, and strengthened friendships that I will always cherish.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=13Q-MUcetmT7iGzTvFk4RrJF9VP-dcJTA&sz=w400" alt="Photo" width="700">
+<img class="photo" src="https://drive.google.com/thumbnail?id=13Q-MUcetmT7iGzTvFk4RrJF9VP-dcJTA&sz=w400" alt="Photo" width="500">
 
 ## Friends
 
