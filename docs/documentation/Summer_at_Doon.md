@@ -42,17 +42,22 @@ https://www.youtube.com/watch?v=[Click_Here_To_Watch](https://youtu.be/7r82vkV9q
 
 ## My experiences
 
-In addition to providing me with a valuable opportunity to improve my skills, the summer leadership program I participated in during the ninth grade allowed me to make friends from all over India. It was full of exchange of ideas and cultural traditions. I got to try all sorts of dishes from India and it was an explosion of flavors. I enjoyed every bite. 
+In addition to providing me with a valuable opportunity to improve my skills, the summer leadership program I participated in during the ninth grade allowed me to make friends from all over India. It was full of exchange of ideas and cultural traditions. I got to try all sorts of dishes from India and it was an amaing experiences.
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=12A6Ek6Ch5ZfBWwoNDtAtn_L5_qKH8PPM&sz=w400" alt="Photo" width="500">
 
-One of the main highlights from the programme is rafting in the Ganga river. It was an incredible experience to raft the Ganges! The water splashed everywhere, and the rapids were a lot of fun. Each second felt unique, and there was a lot of excitement and natural beauty. I created more memories and added more fun as it was my first time rafting.
+## River Rafting at Rishikesh
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="500">
+During our Summer at Doon programme, we had an amazing river rafting experience in Rishikesh. I really enjoyed riding through the exciting rapids of the Ganges with my friends. The beautiful scenery made the adventure even more special. We spent the day laughing, having fun, and creating wonderful memories together.
 
-During the leadership program, I had the wonderful opportunity to make friends from India. Whether we were working together, exchanging ideas, or just having a good time, I enjoyed having them around. I'm grateful for the friendship we formed during the program. Moreover, their perspectives and warmth made the experience even more unforgettable. Making connections and learning from people from a different culture was amazing.
+<img class="photo" src="https://drive.google.com/thumbnail?id=1a2wvyxuHXXgiwLf5ipmKhURScw6WhGRo&sz=w400" alt="Photo" width="800">
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=12hfgnIT_gf7uYOhpYzoe559sX7iuovCr&sz=w400" alt="Photo" width="500">
+
+## Friends
+
+During the leadership program, I had the wonderful opportunity to make friends from India. Whether we were working together, exchanging ideas, or just having a good time, I enjyed having them around. I'm grateful for the friendship we formed during the program. Moreover, their perspectives and warmth made the experience even more unforgettable. Making connections and learning from people from a different culture was amazing.
+
+<img class="photo" src="https://drive.google.com/thumbnail?id=12hfgnIT_gf7uYOhpYzoe559sX7iuovCr&sz=w400" alt="Photo" width="800">
 
 
 
