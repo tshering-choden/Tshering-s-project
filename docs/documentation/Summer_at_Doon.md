@@ -63,7 +63,7 @@ The course taught me the importance of teamwork, discipline, and perseverance. M
 
 Water Olympics was one of the most memorable experiences for me. As I participated in the exciting water activities, I not only had fun but also learned the true value of teamwork, leadership, and trust. Every challenge brought us closer together, and the energy, laughter, and encouragement from everyone made the atmosphere unforgettable. It was more than just a competition — it was a moment where I built confidence, created lasting memories, and strengthened friendships that I will always cherish.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1-CS_6BGgt720reBkZRi52IBXNsF7FgPk&sz=w400" alt="Photo" width="600">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1RV4YI4aHYeS9jrVGVJa9kqCZ7ma0WXiV&sz=w400" alt="Photo" width="600">
 
 ## Friends
 
@@ -75,7 +75,7 @@ During the leadership program, I had the wonderful opportunity to make friends f
 
 I also celebrated my birthday in India during the closing ceremony of the program. My friends told the teachers it was my birthday, and they got a cake to celebratem my birthday. Celebrating my birthday in another country with the new friends I had made was a very special feeling for me. Their warm wishes and the happy atmosphere made the day unforgettable and ended the program with beautiful memories.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1nMiW1QJsb4w3UlHbyH-iyS6B9l7sKYC1/&sz=w400" alt="Photo" width="700">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1fjI5oVvIdD662m9l5yn2yjieT_tXdTHm&sz=w400" alt="Photo" width="700">
 
 
 ## Closing Ceremony 
