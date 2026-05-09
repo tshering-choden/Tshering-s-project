@@ -75,7 +75,7 @@ During the leadership program, I had the wonderful opportunity to make friends f
 
 I also celebrated my birthday in India during the closing ceremony of the program. My friends told the teachers it was my birthday, and they got a cake to celebratem my birthday. Celebrating my birthday in another country with the new friends I had made was a very special feeling for me. Their warm wishes and the happy atmosphere made the day unforgettable and ended the program with beautiful memories.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1fjI5oVvIdD662m9l5yn2yjieT_tXdTHm&sz=w400" alt="Photo" width="700">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1fjI5oVvIdD662m9l5yn2yjieT_tXdTHm&sz=w400" alt="Photo" width="600">
 
 
 ## Closing Ceremony 
