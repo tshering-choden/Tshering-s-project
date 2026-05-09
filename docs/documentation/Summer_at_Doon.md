@@ -59,18 +59,30 @@ The course taught me the importance of teamwork, discipline, and perseverance. M
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=12mhWJv6on-l_YIO3mK8en4N8qURo7YOW&sz=w400" alt="Photo" width="800">
 
+## Water Olympics
+
+Water Olympics was one of the most memorable experiences for me. As I participated in the exciting water activities, I not only had fun but also learned the true value of teamwork, leadership, and trust. Every challenge brought us closer together, and the energy, laughter, and encouragement from everyone made the atmosphere unforgettable. It was more than just a competition — it was a moment where I built confidence, created lasting memories, and strengthened friendships that I will always cherish.
+
+<img class="photo" src="https://drive.google.com/thumbnail?id=13Q-MUcetmT7iGzTvFk4RrJF9VP-dcJTA&sz=w400" alt="Photo" width="800">
+
 ## Friends
 
 During the leadership program, I had the wonderful opportunity to make friends from India. Whether we were working together, exchanging ideas, or just having a good time, I enjyed having them around. I'm grateful for the friendship we formed during the program. Moreover, their perspectives and warmth made the experience even more unforgettable. Making connections and learning from people from a different culture was amazing.
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=12hfgnIT_gf7uYOhpYzoe559sX7iuovCr&sz=w400" alt="Photo" width="800">
 
+## My birthday celebration
+
+I also celebrated my birthday in India during the closing ceremony of the program. My friends told the teachers it was my birthday, and they got a cake to celebratem my birthday. Celebrating my birthday in another country with the new friends I had made was a very special feeling for me. Their warm wishes and the happy atmosphere made the day unforgettable and ended the program with beautiful memories.
+
+<img class="photo" src="https://drive.google.com/thumbnail?id=12VX66oqoG7DKJnATyYgo5Ugml9qhWIPw&sz=w400" alt="Photo" width="800">
+
 
 ## Closing Ceremony 
 
 The Closing Ceremony of "Summer at Doon" concluded with a sense of accomplishment as participants were honored with certificates of completion by Chief Guest Brigadier Rahul. The event marked the culmination of a transformative journey, celebrating the diverse talents and achievements of all involved. Amidst cheers and applause, participants embraced the recognition bestowed upon them, cherishing the memories created during this enriching experience.
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=13iz_aEuZHwJritXOUC3Fa2zXfJic-qEj&sz=w400" alt="Photo" width="800">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1ZAlXohleKknowAFd-ZYsPJt3Fynz2JND&sz=w400" alt="Photo" width="800">
 
 
 
