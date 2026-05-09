@@ -15,21 +15,17 @@ Paro, Bhutan
 Any other academic/scholastic achievement you would like us to know about:
 Grade 8 board examination's result. Total percentage-91.46%
 
-## Apllication for the programme
+## Application for the programme
 
-Answer-I have been actively taking part in co-curricular activities. I am in the school’s football and volleyball team. I also participated  in the National football youth league and I was also able to win the tournament with my PAro FC team members.In garde 7, I participated in the school debate competition and I was able to make it to the final round. Moreover, during the nature retreat, I always make sure to engage with my mentor and co-mentees actively and explore nature. I am taking part in various co-curricular activities to expand my skills and knowledge.
+I have been actively taking part in co-curricular activities. I am in the school’s football and volleyball team. I also participated  in the National football youth league and I was also able to win the tournament with my PAro FC team members.In garde 7, I participated in the school debate competition and I was able to make it to the final round. Moreover, during the nature retreat, I always make sure to engage with my mentor and co-mentees actively and explore nature. I am taking part in various co-curricular activities to expand my skills and knowledge.
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=13yPA3ftzQJLV46l0VD4wqqepmoddpRyu&sz=w400" alt="Photo" width="500">
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=1s_ljsUWX28iZe4qX56dmYhewmY_CaEwB&sz=w400" alt="Photo" width="500">
 
+Looking ahead, I want to develop my emotional intelligence to better understand others and build strong relationships. This skill will also help me regulate my own feelings and navigate challenges effectively. Additionally, I want to learn to accept constructive criticism gracefully so I can stay focused on my larger life goals. Finally, I aim to boost my confidence so I can speak clearly and comfortably in front of any crowd.
 
-Question-Leadership is a skill or an ability to inspire, influence, motivate and guide others to achieve a common goal. A leader should be able to make good decisions, and support others to achieve success. I am in the school’s football team and I have to communicate and cooperate with my team members properly to have a good result at the end. In 2022, it was my first time in the boarding school. However, I was able to adapt to my new environment. It has made me believe that I am capable of adapting to new environments, new rules and making new friends and expanding my social circle.  I have been leading a jump rope’s group during the morning physicals to earn jump rope. All my experiences have taught me to acquire important skills like communication, cooperation, decision making and team-building.  
-
-Answer-Looking ahead, I want to develop my emotional intelligence to better understand others and build strong relationships. This skill will also help me regulate my own feelings and navigate challenges effectively. Additionally, I want to learn to accept constructive criticism gracefully so I can stay focused on my larger life goals. Finally, I aim to boost my confidence so I can speak clearly and comfortably in front of any crowd.
-
-<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="500">
-
+<img class="photo" src="https://drive.google.com/thumbnail?id=1Bkn6hrY_zZ2ibPtDjVsW9xr2LLuCBF9r&sz=w400" alt="Photo" width="500">
 
 
 ## What is Summer at Doon programme??
