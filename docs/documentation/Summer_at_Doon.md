@@ -52,6 +52,15 @@ During our Summer at Doon programme, we had an amazing river rafting experience 
 
 <img class="photo" src="https://drive.google.com/thumbnail?id=1a2wvyxuHXXgiwLf5ipmKhURScw6WhGRo&sz=w400" alt="Photo" width="800">
 
+## Obstacle course
+
+During the 2024 Summer at Doon Leadership Programme, the obstacle course at the Army Cantonment in Dehradun was one of the most exciting experiences for me. I climbed walls, crawled under ropes, balanced across narrow paths, and completed different physical challenges that tested my strength and focus.
+The course taught me the importance of teamwork, discipline, and perseverance. My teammates and I motivated each other throughout the challenges, making the experience both memorable and rewarding.
+
+<img class="photo" src="https://drive.google.com/thumbnail?id=12mhWJv6on-l_YIO3mK8en4N8qURo7YOW&sz=w400" alt="Photo" width="800">
+
+## Football
+
 
 ## Friends
 
