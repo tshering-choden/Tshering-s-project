@@ -34,7 +34,7 @@ Looking ahead, I want to develop my emotional intelligence to better understand 
 
 Summer at Doon is an engaging, two-week residential leadership programme for boys and girls aged 14–18 held at The Doon School in Dehradun. It is designed to move students from thought to action by combining interactive workshops, team challenges, social service projects, and outdoor adventure. Through this immersive experience, participants learn how to lead with confidence, make a positive impact in their communities, and build lasting friendships. 
 
-<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="700">
+<img class="photo" src="https://drive.google.com/thumbnail?id=1z0X8yDR8Lhoz4mQCyygfxn_8KJgMMLN4&sz=w400" alt="Photo" width="600">
 
 ## 2024 Batch of summer at Doon
 
