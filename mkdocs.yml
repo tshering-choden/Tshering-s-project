@@ -160,6 +160,7 @@ nav:
       - "Tech Trek Project": documentation/Tech_Trek.md
       - "CERN Experiences": documentation/CERN_Experiences.md
       - "Summer at Doon,India": documentation/Summer_at_Doon.md
+      - "Vinyl Cutting": documentation/Vinyl_Cutter.md
 
   - Projects:
       - Overview: projects/index.md
