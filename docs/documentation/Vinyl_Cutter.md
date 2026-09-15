@@ -5,4 +5,10 @@ A vinyl cutter is a small machine that uses a computer-guided blade to cut shape
 
 ## Components of Vinyl cutter
 
+<img class="photo" src="https://drive.google.com/thumbnail?id=1wcVWYDzQzhPYouFWEoNDLRIx_WviqjSb-P9U&sz=w400" alt="Photo" width="1000">
+
+
+
+
+
 
