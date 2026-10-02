@@ -57,13 +57,15 @@ Credit: Tsheltrim Lhamo Fab Academy
 ![vi3](https://drive.google.com/thumbnail?id=1QOD3E3qE5fbQpqxKSeNK4UqfDxoRY87C&sz=w800)
 Credit: Tsheltrim Lhamo Fab Academy
 
-
-## Final step
--Weeding:After the machine finished cutting the image, I took the vinyl sheet our from the machine and removed the unnecessary parts from sheet.
+## Weeding
+After the machine finished cutting the image, I took the vinyl sheet our from the machine and removed the unnecessary parts from sheet.
 
 ![weeding_result](https://drive.google.com/thumbnail?id=1bAb1xPJqp-QZ1knTLYVi9D1iTGWMEBZA&sz=w800)
 
-Credit: Tsheltrim Lhamo Fab Academy
+Pic Credit: Tsheltrim Lhamo Fab Academy
+
+## Final step: Transferring
+-After weeding, I placed transfer tape over the design. The tape holds the design so it can be easily moved and placed neatly on the final surface.
 
 
 
